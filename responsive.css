@@ -94,8 +94,6 @@
 }
 @media (max-width: 450px){
   /* index page  */
-.banner{
-  height: 50vh;}
 .navigationBox img{
     width: 184px;
   }
